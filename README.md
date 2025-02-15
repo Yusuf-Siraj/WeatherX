@@ -1,0 +1,1 @@
+This is a project that i had done approximately 7 years ago at the time when my brother had first started out learning Java, in which i had also gotten intrested in as i looked at the material he was learning. Overall all though this does not run as it used to with the slow phasing out of the Eclipse IDE it is still an important memory of my past first adventure.
